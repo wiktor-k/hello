@@ -1,4 +1,4 @@
-package main
+package main // import "metacode.biz/hello"
 
 import "fmt"
 
